@@ -29,7 +29,6 @@ let lineChart = new Chart(line, {
   }
 });
 
-
 // Bar chart
 let barChart = new Chart(bar, {
   type: 'bar',
